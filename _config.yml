@@ -363,3 +363,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+footer:
+  show_footer: false
+

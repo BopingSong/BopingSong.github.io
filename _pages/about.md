@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <h1 align="center">🌟 Hi, I'm <strong>Boping Song</strong></h1>
 
 <p align="center">

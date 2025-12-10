@@ -24,7 +24,7 @@ repository               : "BopingSong/BopingSong.github.io"
 author:
   # Biographic information
 author:
-  avatar           : "/images/SBPprofile.png"
+  avatar           : "profile.png"
   name             : "Boping Song"     
   bio              : "M.S. Applied Analytics at Columbia University | Data Science & Machine Learning"
   location         : "New York, USA"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">🌟 Hi, I'm <strong>Boping Song</strong></h1>
+<h1 align="center">Hi, I'm <strong>Boping Song</strong></h1>
 
 <p align="center">
   M.S. Applied Analytics @ Columbia University <br>
@@ -25,7 +25,6 @@ redirect_from:
 - Optimization, simulation, and analytics for real-world decision-making  
 - Blockchain systems & decentralized computation  
 
-
 <p align="center">
-  ⭐️ Thanks for visiting my profile!  
+  Please refer to my <a href="/cv/">CV</a> for more details. 
 </p>

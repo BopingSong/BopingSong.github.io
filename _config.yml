@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _My CV
   - scope:
       path: ""
       type: teaching

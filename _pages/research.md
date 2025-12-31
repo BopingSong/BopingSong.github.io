@@ -94,7 +94,6 @@ Spring 2025
 -	Developed a lightweight application interface to abstract storage heterogeneity, supporting unified queries over prices and company context while decoupling computation from storage.
 -	Architected the system with separable storage, ETL, and application layers to support horizontal scaling to terabyte-scale data volumes, additional data sources, and distributed computation.
 -	Led a three-person team in end-to-end system integration, coordinating data modeling, pipeline design, and interface development decisions.
-
 <a href="https://github.com/BopingSong/Financial-Data-Hybrid-Database-Systems"
    target="_blank"
    title="View project on GitHub">
@@ -118,7 +117,6 @@ Spring 2025
 -	Outlined a modular smart-contract system design comprising (1)asset minting and management for in-game items, (2) fractionalization contracts (fNFT), (3) options contracts, (4) a proposed AMM-style cross-game pricing layer, intended to conceptually connect pricing signals across multiple game systems
 -	Implemented core contracts in Solidity and tested deployment flows using Remix + MetaMask, leveraging ERC-20 for fractional shares and ERC-1155 for option tokenization to improve composability with wallets and DeFi tooling. 
 -	Articulated how blockchain properties (transparent ownership, programmable execution, interoperability, and auditability) address trust, fraud resistance, and ecosystem fragmentation in game asset markets compared with centralized trading venues.
-
 <a href="https://github.com/BopingSong/GameX-Option-A-Decentralized-Game-Asset-Trading-and-Options-Platform"
    target="_blank"
    title="View project on GitHub">
@@ -141,7 +139,14 @@ Fall 2024
 -	Implemented parametric data-generating processes to examine how different effect sizes influence detection power and inference reliability.
 -	Visualized simulated outcome distributions and test results using ggplot2 to support interpretation of statistical patterns.
 -	Produced a comprehensive research report including literature review, theoretical motivation, hypotheses, methodology, simulation results, limitations, and policy implications for organizational mental health programs.
-
+<a href="https://github.com/BopingSong/Enhancing-Workplace-Mental-Health-Evaluating-Mental-Health-Support-Programs"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
 <hr>
 
 

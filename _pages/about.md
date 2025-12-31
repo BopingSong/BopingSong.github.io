@@ -26,5 +26,7 @@ redirect_from:
 
 <p align="center">
   <a href="{{ '/Boping_Song_CV.pdf' | relative_url }}">Curriculum Vitae (PDF)</a>
-  <a href="/research/">Research Experience</a>
+  &nbsp;·&nbsp;
+  <a href="{{ '/research/' | relative_url }}">Research Experience</a>
 </p>
+

@@ -1,5 +1,9 @@
+---
+title: "Research Experience"
+permalink: /_pages/research/
+author_profile: true
+---
 
-# Research Experience
 
 ### Climate Change Prediction with LSTM and Attention Models
 Fall 2025

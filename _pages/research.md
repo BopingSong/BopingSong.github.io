@@ -71,7 +71,7 @@ Spring 2025
 -	Conducted time-series modeling using ARIMA after formal stationarity testing (ADF and KPSS), focusing on differences in dynamic persistence and volatility propagation rather than causal hedging claims.
 -	Demonstrated that gold consistently occupies lower-volatility regimes during periods of market stress, while Bitcoin exhibits regime clustering associated with higher volatility and risk-seeking dynamics.
 -	Positioned the framework as a generalizable approach for analyzing regime-sensitive behavior in emerging and traditional financial assets, with implications for risk management and portfolio construction under non-stationary market conditions.
-<a href="https://github.com/BopingSong/Evaluating_Bitcoin_as_an_Inflation_Hedge_vs_Gold"
+<a href="https://github.com/BopingSong/Evaluating-Bitcoin-as-an-Inflation-Hedge-vs-Gold"
    target="_blank"
    title="View project on GitHub">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"

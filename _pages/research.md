@@ -59,6 +59,7 @@ Summer 2025
        alt="GitHub">
 </a>
 <hr>
+
 ### Can Bitcoin Be Used as an Inflation Hedge Like Gold?
 Spring 2025
 
@@ -70,7 +71,15 @@ Spring 2025
 -	Conducted time-series modeling using ARIMA after formal stationarity testing (ADF and KPSS), focusing on differences in dynamic persistence and volatility propagation rather than causal hedging claims.
 -	Demonstrated that gold consistently occupies lower-volatility regimes during periods of market stress, while Bitcoin exhibits regime clustering associated with higher volatility and risk-seeking dynamics.
 -	Positioned the framework as a generalizable approach for analyzing regime-sensitive behavior in emerging and traditional financial assets, with implications for risk management and portfolio construction under non-stationary market conditions.
-
+<a href="https://github.com/BopingSong/Evaluating_Bitcoin_as_an_Inflation_Hedge_vs_Gold
+"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
 <hr>
 
 
@@ -131,49 +140,5 @@ Fall 2024
 -	Applied visual encoding and dashboard layout principles to highlight risk concentration, threshold effects, and segment-level differences revealed by the model.
 -	Integrated cost–benefit considerations directly into visualizations, illustrating trade-offs between intervention cost and potential revenue savings under targeted retention strategies.
 -	Used visual storytelling to convey churn risk and cost–benefit insights in a way accessible to non-technical audiences.
-
-<hr>
-
-
-### Lowe’s Home Improvement – Operations and Quality Systems Analysis
-Spring 2023
-
-- Conducted an operational and quality systems analysis of Lowe’s Store #3274 (Fairfax, VA), examining inventory flow, order fulfillment, returns processing, and customer service operations through the lens of operations and quality management frameworks.
--	Analyzed Voice of the Customer (VoC) and Voice of the Employee (VoE) processes, evaluating how customer surveys and internal employee feedback are collected, scored, and used in day-to-day managerial decision-making.
--	Assessed the limitations of Lowe’s legacy operational software (Genesis) and the transition toward newer systems (My Red Vest), identifying risks associated with outdated interfaces, manual workflows, and fragmented customer relationship management.
--	Applied foundational quality management concepts (e.g., Deming’s System of Profound Knowledge and Juran’s quality philosophy) to interpret store-level practices related to cleanliness, product availability, and customer service consistency.
--	Used basic statistical analysis and data visualization (Excel, Python) to support qualitative findings and summarize operational pain points affecting both employee experience and customer satisfaction.
--	Developed S.M.A.R.T. recommendations at the corporate level, including proposals for improved procurement planning systems and a centralized customer relationship management system to address supply uncertainty and customer complaint resolution.
--	Synthesized findings into a professional written report and delivered team presentations communicating operational insights and quality improvement recommendations to a managerial audience.
-
-<hr>
-
-
-### Omega × Swatch MoonSwatch: Segmentation, Targeting, and Positioning Analysis
-Fall 2022
-
--	Conducted a comprehensive segmentation, targeting, and positioning (STP) analysis for the Omega × Swatch MoonSwatch collaboration, focusing on how a luxury brand partnership can expand market reach through an entry-level product line.
--	Analyzed determinant customer attributes and benefits (design, craftsmanship, materials, price accessibility, and brand status) to understand why MoonSwatch appeals to both watch collectors and first-time luxury buyers.
--	Applied multiple segmentation approaches—demographic, geographic, psychographic, and behavioral—to identify potential customer segments including young professionals, urban consumers, collectors, and loyal brand owners.
--	Evaluated segment attractiveness using secondary market research and industry statistics, assessing segment size, growth potential, profitability, and brand fit within the global and U.S. watch market.
--	Selected an undifferentiated (mass marketing) targeting strategy to justify MoonSwatch’s broad appeal as a single-product line designed to reach a wide audience without over-narrow positioning.
--	Developed and analyzed a perceptual map comparing MoonSwatch with key competitors (e.g., Fossil, Citizen, Casio) along dimensions of design variety and craftsmanship quality to assess current market position.
--	Identified gaps between MoonSwatch’s current position and its ideal competitive position, proposing a repositioning strategy focused on improving perceived craftsmanship while maintaining accessible pricing.
--	Formulated positioning statements before and after repositioning to clarify MoonSwatch’s value proposition as a “first luxury watch” that bridges premium branding and affordability.
--	Designed a complete marketing mix (4Ps) strategy, including product and branding decisions, value-based pricing, exclusive distribution channels, and promotion strategies aligned with repositioning goals.
--	Collaborated within a five-person team to integrate analysis across three milestones and contributed to positioning statements, repositioning strategy development, and final report synthesis.
-
-<hr>
-
-
-### VHC, Jason Zafranco, and the Challenges of Human Resource Management
-Fall 2022
-
--	Conducted a team-based applied research project in collaboration with a frontline supervisor at Virginia Hospital Center (VHC) to analyze human resource management challenges during the COVID-19 pandemic.
--	Collected and organized qualitative operational data from an in-depth managerial interview, including staffing levels, workload changes, overtime pressure, and employee burnout indicators.
--	Translated interview findings into structured analytical dimensions (e.g., staffing capacity, workload intensity, employee wellbeing, management response), enabling systematic comparison across HR problem areas.
--	Analyzed how managerial functions—planning, organizing, leading, and controlling—were used to respond to increased demand and constrained labor capacity, identifying gaps between policy intent and operational reality.
--	Synthesized qualitative data and management theory to evaluate the effectiveness of existing HR practices and to support evidence-based recommendations for staff retention and workload balancing.
--	Coordinated weekly team meetings to allocate analysis tasks, integrate findings, and co-author a research report presenting data-supported insights and managerial recommendations.
 
 

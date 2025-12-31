@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center">Boping Song</h1>
+<h1 align="center">Hello, I am Boping Song</h1>
 
 <p align="center">
   M.S. Applied Analytics, 

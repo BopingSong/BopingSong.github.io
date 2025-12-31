@@ -1,18 +1,5 @@
-<h3>
-  Climate Change Prediction with LSTM and Attention Models
-  <a href="https://github.com/BopingSong/Climate_Change_Prediction_with_LSTM_Modeling"
-     target="_blank"
-     title="View project on GitHub"
-     style="margin-left:8px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-         width="18"
-         style="vertical-align:middle;"
-         alt="GitHub">
-  </a>
-</h3>
-
-<div>Fall 2025</div>
-
+### Climate Change Prediction with LSTM and Attention Models
+Fall 2025
 
 -	Framed long-horizon climate forecasting as a systematic comparison of predictive behavior across spatial aggregation levels, explicitly contrasting global versus continent-level temperature prediction using over 250 years of Berkeley Earth land temperature data (>500k observations).
 -	Designed and conducted a controlled empirical comparison of 21 deep learning architectures, systematically varying attention mechanisms and bidirectional temporal modeling to assess predictive accuracy and stability under long-term trends, strong seasonality, and spatial heterogeneity.
@@ -22,6 +9,15 @@
 -	Evaluated models using RMSE, MAE, and Directional Accuracy to assess both pointwise accuracy and trend alignment across architectures and spatial scales. 
 -	Observed that Bi-LSTM models consistently outperform unidirectional LSTMs in regional forecasting tasks, while offering smaller gains under globally aggregated prediction, highlighting scale-dependent differences in predictive behavior.
 -	Implemented end-to-end training and inference pipelines in PyTorch and produced spatiotemporal visualizations to support cross-model and cross-region comparison of climate forecasts.
+<a href="https://github.com/BopingSong/Climate_Change_Prediction_with_LSTM_Modeling"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
+<hr>
 
 ### Measuring the Value of Museum Events
 Fall 2025
@@ -34,6 +30,8 @@ Fall 2025
 -	Identified heterogeneous treatment effects across event formats and revenue channels, showing that mixed-format events are associated with approximately $4.9K in incremental daily ticket revenue, a ~9% increase in in-store sales, and higher per-visitor donation amounts.
 -	Translated statistical estimates into operational insights, enabling comparison of event formats beyond raw attendance and supporting revenue forecasting and strategic programming decisions.
 
+<hr>
+
 ### Modeling and Optimization of US Airport Flight Delay Management
 Summer 2025
 
@@ -45,7 +43,15 @@ Summer 2025
 -	Designed controlled simulation experiments with warm-up periods and 20 independent replications to isolate the marginal impact of capacity changes under baseline and alternative infrastructure and staffing scenarios.
 -	Identified gate availability as the dominant system bottleneck, showing that increasing gate capacity from 2 to 3 - 4 gates reduced average post-landing waiting time from 11.56 ± 1.40 minutes to 1.50 ± 0.32 minutes, while increasing ground-crew staffing alone produced minimal congestion relief.
 -	Conducted what-if policy comparisons between infrastructure expansion and staffing increases, demonstrating that alleviating upstream capacity constraints dominates downstream staffing interventions in reducing airport congestion.
-
+<a href="https://github.com/BopingSong/Modeling-and-Optimization-of-U.S.-Airport-Flight-Delay-Management-Using-DES-Model"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
+<hr>
 ### Can Bitcoin Be Used as an Inflation Hedge Like Gold?
 Spring 2025
 
@@ -57,6 +63,9 @@ Spring 2025
 -	Conducted time-series modeling using ARIMA after formal stationarity testing (ADF and KPSS), focusing on differences in dynamic persistence and volatility propagation rather than causal hedging claims.
 -	Demonstrated that gold consistently occupies lower-volatility regimes during periods of market stress, while Bitcoin exhibits regime clustering associated with higher volatility and risk-seeking dynamics.
 -	Positioned the framework as a generalizable approach for analyzing regime-sensitive behavior in emerging and traditional financial assets, with implications for risk management and portfolio construction under non-stationary market conditions.
+
+<hr>
+
 
 ### Managing Large-Scale Financial Data with Hybrid Storage Systems
 Spring 2025
@@ -71,6 +80,9 @@ Spring 2025
 -	Architected the system with separable storage, ETL, and application layers to support horizontal scaling to terabyte-scale data volumes, additional data sources, and distributed computation.
 -	Led a three-person team in end-to-end system integration, coordinating data modeling, pipeline design, and interface development decisions.
 
+<hr>
+
+
 ### GameX Option – A Decentralized Game Asset Trading and Options Platform
 Spring 2025
 
@@ -82,7 +94,10 @@ Spring 2025
 -	Proposed representing options as ERC-1155 tokens to support secondary trading of option positions and standardized display of option status (Active / Exercised / Expired) within a marketplace UI. 
 -	Outlined a modular smart-contract system design comprising (1)asset minting and management for in-game items, (2) fractionalization contracts (fNFT), (3) options contracts, (4) a proposed AMM-style cross-game pricing layer, intended to conceptually connect pricing signals across multiple game systems
 -	Implemented core contracts in Solidity and tested deployment flows using Remix + MetaMask, leveraging ERC-20 for fractional shares and ERC-1155 for option tokenization to improve composability with wallets and DeFi tooling. 
--	Articulated how blockchain properties (transparent ownership, programmable execution, interoperability, and auditability) address trust, fraud resistance, and ecosystem fragmentation in game asset markets compared with centralized trading venues. 
+-	Articulated how blockchain properties (transparent ownership, programmable execution, interoperability, and auditability) address trust, fraud resistance, and ecosystem fragmentation in game asset markets compared with centralized trading venues.
+
+<hr>
+
 
 ### Enhancing Workplace Mental Health: Evaluating Mental Health Support Programs (MHSPs)
 Fall 2024
@@ -94,6 +109,9 @@ Fall 2024
 -	Implemented parametric data-generating processes to examine how different effect sizes influence detection power and inference reliability.
 -	Visualized simulated outcome distributions and test results using ggplot2 to support interpretation of statistical patterns.
 -	Produced a comprehensive research report including literature review, theoretical motivation, hypotheses, methodology, simulation results, limitations, and policy implications for organizational mental health programs.
+
+<hr>
+
 
 ### Customer Churn: Predictive Analytics and Visual Storytelling for Retention
 Fall 2024
@@ -107,6 +125,9 @@ Fall 2024
 -	Integrated cost–benefit considerations directly into visualizations, illustrating trade-offs between intervention cost and potential revenue savings under targeted retention strategies.
 -	Used visual storytelling to convey churn risk and cost–benefit insights in a way accessible to non-technical audiences.
 
+<hr>
+
+
 ### Lowe’s Home Improvement – Operations and Quality Systems Analysis
 Spring 2023
 
@@ -117,6 +138,9 @@ Spring 2023
 -	Used basic statistical analysis and data visualization (Excel, Python) to support qualitative findings and summarize operational pain points affecting both employee experience and customer satisfaction.
 -	Developed S.M.A.R.T. recommendations at the corporate level, including proposals for improved procurement planning systems and a centralized customer relationship management system to address supply uncertainty and customer complaint resolution.
 -	Synthesized findings into a professional written report and delivered team presentations communicating operational insights and quality improvement recommendations to a managerial audience.
+
+<hr>
+
 
 ### Omega × Swatch MoonSwatch: Segmentation, Targeting, and Positioning Analysis
 Fall 2022
@@ -131,6 +155,9 @@ Fall 2022
 -	Formulated positioning statements before and after repositioning to clarify MoonSwatch’s value proposition as a “first luxury watch” that bridges premium branding and affordability.
 -	Designed a complete marketing mix (4Ps) strategy, including product and branding decisions, value-based pricing, exclusive distribution channels, and promotion strategies aligned with repositioning goals.
 -	Collaborated within a five-person team to integrate analysis across three milestones and contributed to positioning statements, repositioning strategy development, and final report synthesis.
+
+<hr>
+
 
 ### VHC, Jason Zafranco, and the Challenges of Human Resource Management
 Fall 2022

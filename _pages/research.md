@@ -71,8 +71,7 @@ Spring 2025
 -	Conducted time-series modeling using ARIMA after formal stationarity testing (ADF and KPSS), focusing on differences in dynamic persistence and volatility propagation rather than causal hedging claims.
 -	Demonstrated that gold consistently occupies lower-volatility regimes during periods of market stress, while Bitcoin exhibits regime clustering associated with higher volatility and risk-seeking dynamics.
 -	Positioned the framework as a generalizable approach for analyzing regime-sensitive behavior in emerging and traditional financial assets, with implications for risk management and portfolio construction under non-stationary market conditions.
-<a href="https://github.com/BopingSong/Evaluating_Bitcoin_as_an_Inflation_Hedge_vs_Gold
-"
+<a href="https://github.com/BopingSong/Evaluating_Bitcoin_as_an_Inflation_Hedge_vs_Gold"
    target="_blank"
    title="View project on GitHub">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
@@ -96,6 +95,14 @@ Spring 2025
 -	Architected the system with separable storage, ETL, and application layers to support horizontal scaling to terabyte-scale data volumes, additional data sources, and distributed computation.
 -	Led a three-person team in end-to-end system integration, coordinating data modeling, pipeline design, and interface development decisions.
 
+<a href="https://github.com/BopingSong/Financial-Data-Hybrid-Database-Systems"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
 <hr>
 
 
@@ -111,6 +118,15 @@ Spring 2025
 -	Outlined a modular smart-contract system design comprising (1)asset minting and management for in-game items, (2) fractionalization contracts (fNFT), (3) options contracts, (4) a proposed AMM-style cross-game pricing layer, intended to conceptually connect pricing signals across multiple game systems
 -	Implemented core contracts in Solidity and tested deployment flows using Remix + MetaMask, leveraging ERC-20 for fractional shares and ERC-1155 for option tokenization to improve composability with wallets and DeFi tooling. 
 -	Articulated how blockchain properties (transparent ownership, programmable execution, interoperability, and auditability) address trust, fraud resistance, and ecosystem fragmentation in game asset markets compared with centralized trading venues.
+
+<a href="https://github.com/BopingSong/GameX-Option-A-Decentralized-Game-Asset-Trading-and-Options-Platform"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
 
 <hr>
 

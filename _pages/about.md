@@ -19,8 +19,7 @@ redirect_from:
 
 <p align="center">
   <em>
-    Data-centric AI · Spatiotemporal forecasting · Robust ML · 
-    Simulation · Distributed & decentralized data systems
+    Decision-focused ML · Spatiotemporal forecasting · Robust & uncertainty-aware learning · Simulation · Distributed data systems
   </em>
 </p>
 

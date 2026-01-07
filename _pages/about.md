@@ -17,11 +17,7 @@ redirect_from:
   <a href="https://www.gmu.edu/" target="_blank">George Mason University</a>
 </p>
 
-<p align="center">
-  <em>
-    Decision-focused ML · Spatiotemporal forecasting · Robust & uncertainty-aware learning · Simulation · Distributed data systems
-  </em>
-</p>
+I am interested in data-driven modeling for decision-making in complex and uncertain systems. My work focuses on how modeling assumptions, data representations, and system design choices affect inference, generalization, and reliability under distributional shift. I have experience across forecasting, causal analysis, and simulation-based modeling, with an emphasis on robustness, interpretability, and real-world impact. I am currently preparing for research-oriented study in data science and machine learning.
 
 <p align="center">
   <a href="{{ '/_pages/Boping_Song_CV.pdf' | relative_url }}">Curriculum Vitae (PDF)</a>

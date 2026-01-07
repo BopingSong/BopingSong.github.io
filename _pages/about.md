@@ -21,7 +21,7 @@ redirect_from:
   I am interested in data-driven modeling for decision-making in complex and uncertain systems.
   My work focuses on how modeling assumptions, data representations, and system design choices affect inference, generalization, and reliability under distributional shift.
   I have experience across forecasting, causal analysis, and simulation-based modeling, with an emphasis on robustness, interpretability, and real-world impact.
-  I am currently preparing for research-oriented study in data science and machine learning.
+  I am currently preparing for research-oriented doctoral study in data science and machine learning.
 </p>
 
 <p align="center" style="margin-top: 1.2rem;">

@@ -161,5 +161,14 @@ Fall 2024
 -	Applied visual encoding and dashboard layout principles to highlight risk concentration, threshold effects, and segment-level differences revealed by the model.
 -	Integrated cost–benefit considerations directly into visualizations, illustrating trade-offs between intervention cost and potential revenue savings under targeted retention strategies.
 -	Used visual storytelling to convey churn risk and cost–benefit insights in a way accessible to non-technical audiences.
+<a href="https://github.com/BopingSong/BopingSong.github.io/files/Customer_Churn_Infographic.pdf"
+   target="_blank"
+   title="View project on GitHub">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       width="22"
+       style="vertical-align:middle; opacity:0.7;"
+       alt="GitHub">
+</a>
 
+<hr>
 
